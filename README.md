@@ -1,14 +1,14 @@
 # postman Newman Learing from Scratch 
 
 ## Youtub Video Tutorials 
-    - [GITS - API test Series-00 | What is API? | POSTMAN | Sample Request & Response](https://youtu.be/qniB-uDonDk)
-    - [GITS - API test Series-01 | What is API? | POSTMAN | GET Request & Response | Assertion | Test | Schema Validation](https://youtu.be/tHoiBne7SIE)
-    - [GITS - API test Series-02 | What is API? | POSTMAN | POST Request & Response | Assertion | Test | Schema Validation](https://youtu.be/yOnJhjyqY34)
-    - [GITS - API test Series-03 | What is API? | POSTMAN | Customize Assertion | Global Variable](https://youtu.be/biOUwIcEFPA)
-    - [GITS - API test Series-04 | POSTMAN Runner | Newman | CLI | Newman HTML Report](https://youtu.be/5W8Eu01gW_M)
-    - [GITS - API test Series-05 | Github Action | Newman | CLI | CICD | Newman HTML Report](https://youtu.be/oA2ZMAEeGV0)
-    - [GITS - API test Series-5a | Github Action | Newman | CLI | CICD | Github Workflow Debug](https://youtu.be/uzHgAJQsYd8)
-    - [GITS - API test Series-5ab | Github Action | Newman | CLI | CICD | Artifact Newman HTML Report ](https://youtu.be/hFMgJDD0x9g)
+- [GITS - API test Series-00 | What is API? | POSTMAN | Sample Request & Response](https://youtu.be/qniB-uDonDk)
+- [GITS - API test Series-01 | What is API? | POSTMAN | GET Request & Response | Assertion | Test | Schema Validation](https://youtu.be/tHoiBne7SIE)
+- [GITS - API test Series-02 | What is API? | POSTMAN | POST Request & Response | Assertion | Test | Schema Validation](https://youtu.be/yOnJhjyqY34)
+- [GITS - API test Series-03 | What is API? | POSTMAN | Customize Assertion | Global Variable](https://youtu.be/biOUwIcEFPA)
+- [GITS - API test Series-04 | POSTMAN Runner | Newman | CLI | Newman HTML Report](https://youtu.be/5W8Eu01gW_M)
+- [GITS - API test Series-05 | Github Action | Newman | CLI | CICD | Newman HTML Report](https://youtu.be/oA2ZMAEeGV0)
+- [GITS - API test Series-5a | Github Action | Newman | CLI | CICD | Github Workflow Debug](https://youtu.be/uzHgAJQsYd8)
+- [GITS - API test Series-5ab | Github Action | Newman | CLI | CICD | Artifact Newman HTML Report ](https://youtu.be/hFMgJDD0x9g)
 
 ## Pre-requisites
 > POSTMAN
