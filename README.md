@@ -52,3 +52,5 @@ Install Newman HTML report by the following command
     - Test marketplace action for report 
     -  Publish Github Page
 ```
+## Youtub Video Tutorials on watch
+[GITS - API test Series-00 | What is API? | POSTMAN | Sample Request & Response](https://youtu.be/qniB-uDonDk)
