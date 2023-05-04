@@ -1,0 +1,17 @@
+name: Newman cli postman collection and generate htmlextra report 
+
+on:
+  pull_request:
+    branches:
+    - master
+
+jobs:
+  newman:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: matt-ball/newman-action@master
+        with:
+          apiKey: PMAK-64529bab71f8493d0fd7d4e4-f55c3a42bc4bba6f965e91d3f27bf43c7d
+          collection: LearingRESTFULService.json
+          environment: 5922408-228c7edd-fc15-4f68-9665-a35d7df6945b
